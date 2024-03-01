@@ -1,0 +1,2 @@
+from .routes.dizionario_controller import dizionario_controller
+from .routes.sendEmail_controller import sendEmail_controller
